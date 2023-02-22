@@ -84,9 +84,13 @@
   - https://www.aspi.org.au/report/hunting-phoenix
   - https://www.aspi.org.au/report/china-defence-universities-tracker
 
+- Tecnología, Expresividad y Contexto en la Observación de Amenazas
+
+- 
+
 - **Building Strategic Return on Investment Through Cyber Intelligence**
 
-  - Building Strategic Return on Investment Through Cyber Intelligence:Bethany May, Oralia Rodriguez
+  - 演讲者：Bethany May, Oralia Rodriguez
   - https://www.youtube.com/watch?v=F-MYBVINkKs&feature=youtu.be
   - https://imgur.com/HUa4TUw
   - https://techcrunch.com/2022/01/03/the-coming-reckoning-showing-roi-from-threat-intelligence/
@@ -103,7 +107,7 @@
 
 - **We're in Now,Now**
 
-  - We're in Now,Now:The Tyranny of Current Intelligence and How to Manage It Sherman Chu
+  - 演讲者：Sherman Chu
   - https://www.youtube.com/watch?v=IETRHdMejaw&feature=youtu.be
   - https://imgur.com/iwCIsOu
   - https://twitter.com/aperturenoise
@@ -113,7 +117,7 @@
 
 - **Is Sharing Caring?A Deeply Human Study on CTI Networking**
 
-  - Is Sharing Caring? A Deeply Human Study on CTI Networking:Grace Chi 
+  - 演讲者：Grace Chi 
   - https://www.youtube.com/watch?v=NuPFOJ2Fy-Q&feature=youtu.be
   - https://imgur.com/ETGiI1g
   - https://www.linkedin.com/in/graceschi/
@@ -124,9 +128,9 @@
   - https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options
   - https://discord.com/invite/Z3GeQHxKuh
 
-- **[ES] Practico uso de lnteligencia De Amenazas para operacionalizar Purple Teaming**
+- **Practico uso de lnteligencia De Amenazas para operacionalizar Purple Teaming**
 
-  - Practico uso de lnteligencia De Amenazas para operacionalizar Purple Teaming:JorgeOrchilles,Nathali Cano
+  - 演讲者：:JorgeOrchilles,Nathali Cano
   - https://www.youtube.com/watch?v=8OKnnCHIigo&feature=youtu.be
   - https://www.linkedin.com/in/jorgeorchilles/
   - https://twitter.com/jorgeorchilles
