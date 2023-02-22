@@ -1,14 +1,24 @@
-# 本系列收录2022年SANS系列峰会内容
+# 2022年SANS系列峰会内容
+
+## 郑重说明
+
+SANS系列峰会经常会出现以美国为核心的政治意识形态的内容！
+
+本项目整理和归档的目的是在于技战术、动态和思路，与政治意识形态无关！
+
+2022年SANS的系列峰会，将视频、演讲者内容、简历、社交媒体、关联网站、使用工具都按照主题归档，感兴趣的朋友可以关注并来个**star**！
+
+
 
 ## 2022 SANS Cyber Threat Intelligence Summit
 
-- 官网：https://www.sans.org/webcasts/cyber-threat-intelligence-summit-solutions-track-2022/
 - 时间：January 27 & 29, 2022
 
 ## 演讲主题& 内容
 
-- Applied Forecasting
-  - Using Forecasting Techniques to Anticipate Cyber Threats: Gert-Jan Bruggink
+- **Applied Forecasting**
+
+  - Using Forecasting Techniques to Anticipate Cyber Threats:Gert-Jan Bruggink
   - https://www.youtube.com/watch?v=lL8yINOXrfQ
   - https://imgur.com/D6b8Htl
   - https://www.linkedin.com/in/gertjanbruggink/
@@ -27,7 +37,8 @@
   - https://www.goodreads.com/book/show/23995360-superforecasting
   - https://cybersecpolitics.blogspot.com/2021/12/guest-post-hostilespectrums-futures.html
   - https://redcanary.com/blog/threat-modeling/
-- You Get What You Ask For: Building Intelligent Teams for CTI Success
+- **You Get What You Ask For: Building Intelligent Teams for CTI Success**
+
   - You Get What You Ask For: Building intelligent Teams for CTI Success: Melanie Kruger,Katie Nickels
   - https://www.youtube.com/watch?v=PY25Ea15eA8&feature=youtu.be
   - https://imgur.com/idgWDpx
@@ -37,8 +48,9 @@
   - https://www.teachthought.com/critical-thinking/cognitive-biases/
   - https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession
 
-- Inside the Persistent Mind of a Chinese Nation-State Actor
-  - Inside the Persistent Mind of a Chinese Nation-State Actor - Lina Lau
+- **Inside the Persistent Mind of a Chinese Nation-State Actor**
+
+  - Inside the Persistent Mind of a Chinese Nation-State Actor:Lina Lau
   - https://www.youtube.com/watch?v=7aemGhaE9ds&feature=youtu.be
   - https://imgur.com/BVU1tMC
   - https://twitter.com/inversecos
@@ -52,16 +64,47 @@
   - https://www.aspi.org.au/report/hunting-phoenix
   - https://www.aspi.org.au/report/china-defence-universities-tracker
 
+- **Building Strategic Return on Investment Through Cyber Intelligence**
+
+  - Building Strategic Return on Investment Through Cyber Intelligence:Bethany May, Oralia Rodriguez
+  - https://www.youtube.com/watch?v=F-MYBVINkKs&feature=youtu.be
+  - https://imgur.com/HUa4TUw
+  - https://techcrunch.com/2022/01/03/the-coming-reckoning-showing-roi-from-threat-intelligence/
+  - https://github.com/Neo23x0/munin
+  - https://www.maltego.com/
+  - https://github.com/lanmaster53/recon-ng
+  - https://intel471.com/solutions/attack-surface-protection
+  - https://www.shodan.io/
+  - https://github.com/opencybersecurityalliance/stix-shifter 
+  - https://github.com/0xThiebaut/sigmai
+  - https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper
+  - https://www.sans.org/white-papers/34490/
+  - https://twitter.com/0rod5280
+
+- **We're in Now,Now**
+
+  - We're in Now,Now:The Tyranny of Current Intelligence and How to Manage It Sherman Chu
+  - https://www.youtube.com/watch?v=IETRHdMejaw&feature=youtu.be
+  - https://imgur.com/iwCIsOu
+  - https://twitter.com/aperturenoise
+  - https://neuroleadership.com/your-brain-at-work/seeds-model-biases-affect-decision-making/
+  - https://www.misp-project.org/
+  - https://www.sans.org/cyber-security-courses/security-strategic-planning-policy-leadership/
+
+- **Is Sharing Caring?A Deeply Human Study on CTI Networking**
+
+  - Is Sharing Caring? A Deeply Human Study on CTI Networking:Grace Chi 
+  - https://www.youtube.com/watch?v=NuPFOJ2Fy-Q&feature=youtu.be
+  - https://imgur.com/ETGiI1g
+  - https://www.linkedin.com/in/graceschi/
+  - https://twitter.com/euphoricfall
+  - https://blog.pulsedive.com/cti-networking-report/
+  - https://pulsedive.com/downloads/ctinetworkingreport2022.pdf
+  - https://www.curatedintel.org/
+  - https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options
+  - https://discord.com/invite/Z3GeQHxKuh
+  - 
+
+  
 
 
-
-
-
-
-
-
-# 郑重说明
-
-SANS系列峰会经常会出现以美国为核心的政治意识形态的内容！
-
-本项目整理和归档的目的是在于技战术、动态和思路，与政治意识形态无关！
