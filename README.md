@@ -12,23 +12,58 @@ SANS系列峰会经常会出现以美国为核心的政治意识形态的内容�
 
 ## 01-2022 SANS Cyber Threat Intelligence Summit
 
-- https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md
 - 时间：January 27 & 29, 2022
 
-**演讲主题& 内容**
+### 演讲主题
 
-- **Applied Forecasting**
-- **You Get What You Ask For: Building Intelligent Teams for CTI Success**
+00-SANS相关合集😎
 
-- **Inside the Persistent Mind of a Chinese Nation-State Actor**
+01-You Get What You Ask For: Building Intelligent Teams for CTI Success-😀Melanie Kruger, Katie Nickels
 
-- **Building Strategic Return on Investment Through Cyber Intelligence**
+02-Keynote: Journey to the Center of CTI-😀Rebekah Brown
 
-- **We're in Now,Now**
+03-Inside the Persistent Mind of a Chinese Nation-State Actor-😀Lina Lau
 
-- **Is Sharing Caring?A Deeply Human Study on CTI Networking**
+04-Tecnología, Expresividad y Contexto en la Observación de Amenazas-😀Carlos Diaz
 
-  
+05-Is Sharing Caring? A Deeply Human Study on CTI Networking-😀Grace Chi
+
+06-Práctico uso de Inteligencia De Amenazas para operacionalizar Purple Teaming-😀JorgeOrchilles,Nathali Cano
+
+07-We're in Now, Now-😀Sherman Chu
+
+08-Mind Your Gaps-😀Brian Mohr
+
+09-Keynote: Use Your Voice-😀Lillian Teng
+
+10-Data Sources 2.0: Operacionalizando los nuevos objetos del marco ATT&CK-😀Jose & Roberto Rodriguez
+
+11-DeadRinger: Three APTs Walk Into A Bar..-😀Assaf Dahan, Tom Fakterman, Daniel Frank
+
+12-Usando MITRE dentro del ciclo de inteligencia-😀Marc Rivero Lopez
+
+13-Clip Addiction: A Threat Intelligence Approach to Video-Based Chinese InfoOps-😀 Che Chang, Silvia Yeh
+
+14-La Evolución del Ransomware: Previsión de Escenarios Posibles para 2022-😀Stefano De Blasi
+
+15-Applied Forecasting-😀Jan Bruggink
+
+16-La Evolución del Ransomware: Previsión de Escenarios Posibles para 2022-😀Stefano De Blasi
+
+17-TypoDetect, Detectando trampas para engañar tu cerebro-😀Diego Espitia
+
+18-Técnicas CTI para la caracterización de un ataque con ransomware-😀 Nounou Mbeiri, Iván Portillo
+
+19-Mark Your Calendars: Why Dates Matter to Adversaries-😀 Nate Beach-Westmoreland
+
+20-Building Strategic Return on Investment Through Cyber Intelligence-😀Bethany May, Oralia Rodriguez
+
+21-Integrated Intelligence-😀Samara Williams
+
+### 交付物
+
+- markdown
+- 书签
 
 
 

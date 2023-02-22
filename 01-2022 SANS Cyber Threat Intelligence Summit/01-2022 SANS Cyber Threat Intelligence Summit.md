@@ -311,7 +311,13 @@
 - https://www.linkedin.com/in/ivanportillomorales/
 - https://twitter.com/ivanPorMor
 
+### 19-Mark Your Calendars: Why Dates Matter to Adversaries-😀 Nate Beach-Westmoreland
 
+- [Mark Your Calendars: Why Dates Matter to Adversaries - YouTube](https://youtu.be/-1ygjCFTWps)
+- [MindsEyeCCF Graphic Recording](https://imgur.com/smNmEzW)
+- https://twitter.com/natebeachw
+- [Hactivists say they hacked Belarus rail system to stop Russian military buildup | Ars Technica](https://arstechnica.com/information-technology/2022/01/hactivists-say-they-hacked-belarus-rail-system-to-stop-russian-military-buildup/)
+- [GitHub - NateBeachW/SANS-CTI-Summit-2022: References for my SANS CTI 2022 Presentation - Mark Your Calendars](https://github.com/NateBeachW/SANS-CTI-Summit-2022)
 
 ### 20-Building Strategic Return on Investment Through Cyber Intelligence-😀Bethany May, Oralia Rodriguez
 
@@ -331,7 +337,7 @@
 
 
 
-### 21Integrated Intelligence-😀Samara Williams
+### 21-Integrated Intelligence-😀Samara Williams
 
 - [MindsEyeCCF Graphic Recording](https://imgur.com/HVEZrpm)
 - [https://www.linkedin.com/in/samara-r-williams-%F0%9F%94%B8%EF%B8%8F-9aa24247/](https://www.linkedin.com/in/samara-r-williams-🔸️-9aa24247/)
@@ -341,11 +347,3 @@
 - https://twitter.com/rickhholland/status/1487110114775642115
 
 
-
-### 19-Mark Your Calendars: Why Dates Matter to Adversaries-😀 Nate Beach-Westmoreland
-
-- [Mark Your Calendars: Why Dates Matter to Adversaries - YouTube](https://youtu.be/-1ygjCFTWps)
-- [MindsEyeCCF Graphic Recording](https://imgur.com/smNmEzW)
-- https://twitter.com/natebeachw
-- [Hactivists say they hacked Belarus rail system to stop Russian military buildup | Ars Technica](https://arstechnica.com/information-technology/2022/01/hactivists-say-they-hacked-belarus-rail-system-to-stop-russian-military-buildup/)
-- [GitHub - NateBeachW/SANS-CTI-Summit-2022: References for my SANS CTI 2022 Presentation - Mark Your Calendars](https://github.com/NateBeachW/SANS-CTI-Summit-2022)
