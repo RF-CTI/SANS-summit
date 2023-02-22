@@ -4,9 +4,9 @@
 
 ## 演讲主题& 内容
 
-- **Applied Forecasting**
+- **Using Forecasting Techniques to Anticipate Cyber Threats**
 
-  - Using Forecasting Techniques to Anticipate Cyber Threats:Gert-Jan Bruggink
+  - 演讲者：Gert-Jan Bruggink
   - https://www.youtube.com/watch?v=lL8yINOXrfQ
   - https://imgur.com/D6b8Htl
   - https://www.linkedin.com/in/gertjanbruggink/
@@ -25,9 +25,10 @@
   - https://www.goodreads.com/book/show/23995360-superforecasting
   - https://cybersecpolitics.blogspot.com/2021/12/guest-post-hostilespectrums-futures.html
   - https://redcanary.com/blog/threat-modeling/
+
 - **You Get What You Ask For: Building Intelligent Teams for CTI Success**
 
-  - You Get What You Ask For: Building intelligent Teams for CTI Success: Melanie Kruger,Katie Nickels
+  - 演讲者： Melanie Kruger,Katie Nickels
   - https://www.youtube.com/watch?v=PY25Ea15eA8&feature=youtu.be
   - https://imgur.com/idgWDpx
   - https://www.linkedin.com/in/melaniekruger/
@@ -36,9 +37,40 @@
   - https://www.teachthought.com/critical-thinking/cognitive-biases/
   - https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession
 
+- **Keynote:Journey to the Center of CTI:Story, Systems, and Self**
+
+  - 演讲者：Rebekah Brown
+  - https://www.youtube.com/watch?v=xU_WWU7fG7U&feature=youtu.be
+  - https://imgur.com/Drznm7x
+  - https://www.linkedin.com/in/rebekah-brown-99646b97/
+  - https://twitter.com/PDXBek
+  - https://www.goodreads.com/book/show/18154.The_Cuckoo_s_Egg
+  - https://bookshop.org/p/books/the-cuckoo-s-egg-tracking-a-spy-through-the-maze-of-computer-espionage-cliff-stoll/8852565?ean=9781416507789
+  - https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)
+  - https://medium.com/katies-five-cents/a-top-10-reading-list-if-youre-getting-started-in-cyber-threat-intelligence-c11a18fc9798
+  - https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a
+  - https://www.youtube.com/watch?v=PGv5BqNL164
+  - https://brenebrown.com/podcasts/?refinementList%5Btopics%5D%5B0%5D=Storytelling&pagination=1
+  - https://jamesclear.com/atomic-habits
+  - https://twitter.com/CYINT_dude/status/1484640780660752391
+  - https://www.goodreads.com/book/show/10127019-the-lean-startup?ac=1&from_search=true&qid=bAONl5FmGm&rank=1
+  - https://www.azquotes.com/quote/525412
+  - https://medium.com/cycraft/cycraft-classroom-mitre-att-ck-vs-cyber-kill-chain-vs-diamond-model-1cc8fa49a20f
+  - https://www.goodreads.com/book/show/28646667-intelligence-driven-incident-response
+  - https://www.goodreads.com/book/show/31170723-behave
+  - https://www.goodreads.com/en/book/show/46064083-how-we-learn
+  - https://www.simonandschuster.com/books/Why-We-Sleep/Matthew-Walker/9781501144325
+  - https://www.youtube.com/watch?v=1QDO7ewis2I&list=PLfouvuAjspToL98Xfq57bnRayEFl0XZwE&index=9
+  - https://www.goodreads.com/en/book/show/695126.Maps_of_the_Mind
+  - https://www.globalemancipation.ngo/
+  - https://hubermanlab.com/
+  - https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+  - https://sroberts.medium.com/cti-reading-list-a93ccdd7469c
+  - https://www.youtube.com/watch?v=1h7rLHNXio8
+
 - **Inside the Persistent Mind of a Chinese Nation-State Actor**
 
-  - Inside the Persistent Mind of a Chinese Nation-State Actor:Lina Lau
+  - 演讲者：Lina Lau
   - https://www.youtube.com/watch?v=7aemGhaE9ds&feature=youtu.be
   - https://imgur.com/BVU1tMC
   - https://twitter.com/inversecos
@@ -91,6 +123,19 @@
   - https://www.curatedintel.org/
   - https://help.twitter.com/en/using-twitter/advanced-twitter-mute-options
   - https://discord.com/invite/Z3GeQHxKuh
+
+- **[ES] Practico uso de lnteligencia De Amenazas para operacionalizar Purple Teaming**
+
+  - Practico uso de lnteligencia De Amenazas para operacionalizar Purple Teaming:JorgeOrchilles,Nathali Cano
+  - https://www.youtube.com/watch?v=8OKnnCHIigo&feature=youtu.be
+  - https://www.linkedin.com/in/jorgeorchilles/
+  - https://twitter.com/jorgeorchilles
+  - https://twitter.com/canonathali
+  - https://github.com/scythe-io/purple-team-exercise-framework/blob/master/PTEFv2.md
+  - https://es.wikipedia.org/wiki/Moneda_de_doce_c%C3%A9ntimos_y_medio_de_bol%C3%ADvar
+  - https://thedfirreport.com/2021/12/13/diavol-ransomware/
+  - https://scythe.io/library/emulacion-de-adversarios-diavol-ransomware
+  - https://github.com/scythe-io/community-threats/tree/master/Diavol
   - 
 
   

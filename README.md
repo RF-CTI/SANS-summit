@@ -12,6 +12,7 @@ SANS系列峰会经常会出现以美国为核心的政治意识形态的内容�
 
 ## 01-2022 SANS Cyber Threat Intelligence Summit
 
+- https://github.com/RF-CTI/SANS-summit/blob/master/01-2022%20SANS%20Cyber%20Threat%20Intelligence%20Summit.md
 - 时间：January 27 & 29, 2022
 
 **演讲主题& 内容**
