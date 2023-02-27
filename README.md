@@ -64,7 +64,35 @@ SANS系列峰会经常会出现以美国为核心的政治意识形态的内容�
 
 - 时间：April 7, 2022
 
+### 演讲主题
 
+00-SANS 相关链接
+
+01-I Know You
+
+02-Dark Web: The Other Side
+
+03-Finding Frausters Who Hide Behind Cloudflare
+
+04-Lessons Learned From Ten Years of OSINT Automation
+
+05-Open House
+
+06-Protecting High-Value Individuals
+
+07-Glass Bottom OSINT
+
+08-Blockchain Investigations 101
+
+09-How to Investigate Phishing Campaigns
+
+10-What Value Does OSINT Bring to the Web 3.0 Space?
+
+11-Once Upon a Crime: A Novel Approach to OSINT Through Storytelling
+
+12-Ad Analytics and Marketing SEO Tools as a Resource for OSINT Investigations
+
+13-OSINT & AI
 
 
 
