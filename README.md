@@ -60,6 +60,14 @@ SANS系列峰会经常会出现以美国为核心的政治意识形态的内容�
 
 21-Integrated Intelligence-😀Samara Williams
 
+## 02-2022 SANS OSINT Summit
+
+- 时间：April 7, 2022
+
+
+
+
+
 ### 交付物
 
 - markdown
